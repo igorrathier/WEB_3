@@ -1,0 +1,14 @@
+{
+  "name": "t",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "servor --reload"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "servor": "^4.0.2"
+  }
+}
